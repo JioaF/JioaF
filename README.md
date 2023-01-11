@@ -1,5 +1,6 @@
 ## Hi My name is Muhammad Salmaan Alfarisi, AKA @JioaF
-- I’m currently interested and majoring in Software Engineering and IT stuff ...
+- I’m currently interested and majoring in Software Engineering and Enthusiast with IT stuff...
+- Still learning at College and trying to master Fullstack/Backend Web Development
 - You can reach me at [Instagram](https://www.instagram.com/salmaan_alfarisi__/)
 
 <!---
